@@ -1,9 +1,9 @@
 # Alice Discord Bot
 
-Alice is a feature-rich, privacy-conscious Discord bot designed to enhance your server with interactive services, premium features, and a strong commitment to user safety and compliance.
+Alice is an AI-powered Discord chatbot designed to enhance your server with intelligent, interactive services, premium features, and a strong commitment to user safety and compliance.
 
 ## Features
-- **Interactive Services:** Engage with a variety of chat-based and community tools directly on Discord.
+- **AI-Powered Interactions:** Engage with advanced conversational AI and a variety of chat-based and community tools directly on Discord.
 - **Premium Features:** Unlock additional functionalities through secure cryptocurrency payments (no Ko-fi or third-party payment platforms).
 - **Privacy-First:** Only essential Discord IDs (guild, channel, user) are collected for service operation, premium verification, and badge assignment. No personal or payment data is stored.
 - **Compliance:** Strict adherence to Discord’s and Google’s policies, with robust content moderation and legal compliance.
