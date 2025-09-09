@@ -33,7 +33,7 @@ You agree not to use Alice to generate, share, or disseminate any content that i
 ### Rationale for Restrictions
 - **Legal Compliance**: Compliance with all applicable laws and regulations.
 - **Community Safety**: Protection of users from harmful or offensive content.
-- **Platform Policies**: Adherence to Discord’s and Google’s policies.
+- **Platform Policies**: Adherence to Discord’s policies.
 
 ## 6. Data Collection and Use
 
