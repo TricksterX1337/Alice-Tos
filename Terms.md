@@ -27,7 +27,6 @@ Alice provides interactive services on Discord, including but not limited to cha
 You agree not to use Alice to generate, share, or disseminate any content that includes, but is not limited to:
 - **Child Sexual Abuse Material (CSAM)**: Strictly prohibited and illegal.
 - **Graphic or Violent Content**: Includes depictions of extreme violence, gore, or disturbing material.
-- **NSFW (Not Safe for Work) Material**: Includes sexually explicit content or pornography.
 - **Sensitive or Offensive Content**: Includes discriminatory, inflammatory, or otherwise objectionable material.
 
 ### Rationale for Restrictions
