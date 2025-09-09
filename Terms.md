@@ -16,7 +16,7 @@ Welcome to Alice ("Alice", "we", "our", or "us"). These Terms of Service ("Terms
 
 ## 3. Eligibility and Registration
 
-You must be at least 18 years of age to use Alice, in accordance with [Google’s Gemini Terms of Service](https://ai.google.dev/gemini-api/terms). By using Alice, you represent and warrant that you meet this age requirement. Access to certain features requires a valid Discord account, subject to [Discord’s Terms of Service](https://discord.com/terms).
+You must be at least 13 years of age to use Alice. By using Alice, you represent and warrant that you meet this age requirement. Access to certain features requires a valid Discord account, subject to [Discord’s Terms of Service](https://discord.com/terms).
 
 ## 4. Scope of Services
 
